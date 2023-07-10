@@ -1,0 +1,1 @@
+start untitled1.exe -mode FilePointer
