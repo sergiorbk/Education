@@ -1,0 +1,6 @@
+industrial products range - added << operator reloading
+industrial products output - deleted method "print_range"
+industrial products output (class) - removed
+
+food products range - added a method tat counts cost of spoiled products
+food products cost calculator (class) - removed

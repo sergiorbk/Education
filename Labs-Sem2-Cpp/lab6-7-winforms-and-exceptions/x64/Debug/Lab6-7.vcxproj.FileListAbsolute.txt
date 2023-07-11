@@ -1,0 +1,5 @@
+E:\Work\C++\Projects\CHECKERSWFC++\Lab6-7\x64\Debug\Lab6-7.vcxproj.AssemblyReference.cache
+E:\Work\C++\Projects\CHECKERSWFC++\Lab6-7\x64\Debug\Lab6-7.vcxproj.SuggestedBindingRedirects.cache
+E:\Work\C++\Projects\CHECKERSWFC++\Lab6-7\x64\Debug\Lab6-7.exe
+E:\Work\C++\Projects\CHECKERSWFC++\Lab6-7\x64\Debug\Lab67.MainForm.resources
+E:\Work\C++\Projects\CHECKERSWFC++\Lab6-7\x64\Debug\Lab6-7.vcxproj.GenerateResource.cache

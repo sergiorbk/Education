@@ -1,0 +1,10 @@
+# ninja log v5
+824	2212	7032169176693373	lab32.exe	6d751b298e7ad62b
+2	5251	7032148775246243	CMakeFiles/lab32.dir/FullName.cpp.obj	367bdc11fbf2d4fa
+801	2470	7032127282989715	CMakeFiles/lab32.dir/Student.cpp.obj	1309bb6997869e51
+21	800	7032127266240020	CMakeFiles/lab32.dir/Date.cpp.obj	fcc3a0764e10fcd8
+11	715	7032169161856579	CMakeFiles/lab32.dir/StudentsArray.cpp.obj	a1d0b94fac6e1651
+18	783	7032169162537430	CMakeFiles/lab32.dir/StudentsFactory.cpp.obj	ca07c7dafb41608d
+37	5932	7032127317508455	CMakeFiles/lab32.dir/Group.cpp.obj	2521cfc54e48082f
+3	824	7032169162957163	CMakeFiles/lab32.dir/main.cpp.obj	b003cbb8b6ffa2c5
+1	367	7032555825030977	build.ninja	e60f965809640b67

@@ -1,0 +1,15 @@
+# ninja log v5
+28	2154	7019650961412437	CMakeFiles/lab2.dir/main.cpp.obj	651d37567f1d80a8
+3	1260	7012162675725698	CMakeFiles/lab2.dir/fileHandler.cpp.obj	4639b8a1e140ebd5
+4	1385	7019651166609253	lab2.exe	987ad45090b44778
+3	2130	7018857087508759	CMakeFiles/lab2.dir/sergolib.cpp.obj	6f9c4ef97c38ed8e
+16	2167	7019650961584172	CMakeFiles/lab2.dir/file_handler.cpp.obj	747e3c4aa988021c
+41	2169	7019650961584172	CMakeFiles/lab2.dir/format_func.cpp.obj	5ff6abcaaf2e31d2
+12	701	7012764601609161	CMakeFiles/lab2.dir/formatFunc.cpp.obj	2f8c8a708dfa1f83
+2	775	7019804070963857	build.ninja	ded57fd05f0eb76a
+62	7492	7019651014691614	CMakeFiles/lab2.dir/data_input.cpp.obj	ae752ccb11ddd86b
+12	741	7026219192093096	CMakeFiles/lab2.dir/file_handler.cpp.obj	747e3c4aa988021c
+8	802	7026219192684861	CMakeFiles/lab2.dir/format_func.cpp.obj	5ff6abcaaf2e31d2
+3	1027	7026219194953471	CMakeFiles/lab2.dir/main.cpp.obj	651d37567f1d80a8
+15	4936	7026219233956593	CMakeFiles/lab2.dir/data_input.cpp.obj	ae752ccb11ddd86b
+4937	5917	7026219243740917	lab2.exe	987ad45090b44778

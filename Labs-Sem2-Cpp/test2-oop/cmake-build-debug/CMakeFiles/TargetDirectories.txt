@@ -1,0 +1,3 @@
+C:/Users/sergi/CLionProjects/mkr2/cmake-build-debug/CMakeFiles/mkr2.dir
+C:/Users/sergi/CLionProjects/mkr2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sergi/CLionProjects/mkr2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+# ninja log v5
+2	387	7055928353210647	build.ninja	7496c34da22393b6
+31	924	7052726390237823	CMakeFiles/lab4_5_inheritance.dir/IndustrialProduct.cpp.obj	ab516811af4b1996
+14	765	7052726388594085	CMakeFiles/lab4_5_inheritance.dir/Product.cpp.obj	b83a17e4aafe0f20
+57	939	7052726390377730	CMakeFiles/lab4_5_inheritance.dir/FoodProduct.cpp.obj	95db0a8802e89dd9
+638	995	7053387051207011	lab4_5_inheritance.exe	2d2de0d857ecb316
+21	873	7052726389685569	CMakeFiles/lab4_5_inheritance.dir/Date.cpp.obj	1cda3afb29d7a2ed
+3	632	7053387047705123	CMakeFiles/lab4_5_inheritance.dir/main.cpp.obj	1d8cd0b648b0204d
+43	977	7052726390757501	CMakeFiles/lab4_5_inheritance.dir/ProductsInput.cpp.obj	9a2e1ea216e34068
+12	767	7055945109003148	CMakeFiles/lab4_5_inheritance.dir/ProductsOutput.cpp.obj	2719b6a88b0ea86a
+3	852	7055945109847700	CMakeFiles/lab4_5_inheritance.dir/main.cpp.obj	1d8cd0b648b0204d
+855	1476	7055945116006248	lab4_5_inheritance.exe	fb3744ab38244ba2

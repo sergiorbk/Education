@@ -1,0 +1,10 @@
+# ninja log v5
+12	795	7069174561111830	CMakeFiles/lab5_6_collections.dir/Menu.cpp.obj	d933c438d24a88e9
+12	566	7067396357572672	CMakeFiles/lab5_6_collections.dir/Multiset.cpp.obj	e8eba526c85915e3
+3	1212	7069174565267873	CMakeFiles/lab5_6_collections.dir/main.cpp.obj	e3ba6eb1499ff54
+1212	1733	7069174570383634	lab5_6_collections.exe	46c10413d5bfb924
+18	748	7068355314133189	CMakeFiles/lab5_6_collections.dir/Input.cpp.obj	93c663db73b11d9f
+1	360	7074980731276798	build.ninja	c1b5b3b2cfd8736f
+12	725	7074986773581256	CMakeFiles/lab5_6_collections.dir/Menu.cpp.obj	d933c438d24a88e9
+3	1096	7074986777282263	CMakeFiles/lab5_6_collections.dir/main.cpp.obj	e3ba6eb1499ff54
+1097	1630	7074986782514258	lab5_6_collections.exe	46c10413d5bfb924
