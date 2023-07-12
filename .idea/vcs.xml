@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Labs-Sem2-Cpp/lab1.1-text-files-c-and-cpp-style" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Labs-Sem2-Cpp/lab1.1-text-files" vcs="Git" />
   </component>
 </project>
