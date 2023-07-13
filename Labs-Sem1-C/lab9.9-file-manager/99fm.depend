@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672788444 source:e:\work\c\99fm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<stdbool.h>
+	<string.h>
+	<dirent.h>
+

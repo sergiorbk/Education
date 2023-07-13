@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669685480 source:e:\work\c\32kalendar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1669231755 source:e:\work\c\5vpormas\main.c
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+	<stdlib.h>
+	<locale.h>
+
+1669507054 source:e:\work\c\51vpormas\main.c
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+	<string.h>
+

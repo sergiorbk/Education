@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1670517872 source:e:\work\c\66dynamicarr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<stdbool.h>
+

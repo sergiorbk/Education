@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670272529 source:e:\work\c\42bulbashka\main.c
+	<stdio.h>
+	<stdlib.h>
+
