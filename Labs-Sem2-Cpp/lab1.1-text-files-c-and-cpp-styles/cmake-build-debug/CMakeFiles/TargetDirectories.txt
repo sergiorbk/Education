@@ -1,0 +1,3 @@
+C:/Users/sergi/CLionProjects/lab1-text-files-c-and-cpp-style/cmake-build-debug/CMakeFiles/untitled1.dir
+C:/Users/sergi/CLionProjects/lab1-text-files-c-and-cpp-style/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sergi/CLionProjects/lab1-text-files-c-and-cpp-style/cmake-build-debug/CMakeFiles/rebuild_cache.dir

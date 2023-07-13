@@ -1,0 +1,7 @@
+# ninja log v5
+3	729	7007908164428812	CMakeFiles/untitled1.dir/sergolib.cpp.obj	f8dd134f35899447
+2	862	7007911284683075	CMakeFiles/untitled1.dir/main.cpp.obj	53bed1327d1a8d22
+864	1599	7008410498745206	untitled1.exe	83680bb4f4946835
+1	320	7106898435193689	build.ninja	a11fe04a09743f74
+3	728	7008410490139618	CMakeFiles/untitled1.dir/c_style_func.cpp.obj	1484d783e5070915
+8	864	7008410491481386	CMakeFiles/untitled1.dir/cpp_style_func.cpp.obj	8d7966e0a7c742e
