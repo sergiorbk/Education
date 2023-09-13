@@ -43,22 +43,22 @@ body {
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: center; /* Выравнивание пунктов по центру горизонтально */
+    justify-content: center;
 }
 
 #mainMenu li {
-    margin: 5px 10px; /* Горизонтальные отступы между пунктами меню */
+    margin: 5px 10px;
 }
 
 #mainMenu a {
-    color: whitesmoke; /* Цвет текста пунктов меню */
-    text-decoration: none; /* Убираем подчеркивание ссылок */
-    font-weight: bold; /* Жирный шрифт для текста */
-    font-size: 14px; /* Размер шрифта */
+    color: whitesmoke;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
 }
 
 #mainMenu a:hover {
-    background-color: #555; /* Цвет фона при наведении */
+    background-color: #555;
 }
 
 
