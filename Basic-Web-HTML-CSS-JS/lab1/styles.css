@@ -1,0 +1,131 @@
+body {
+    display: grid;
+    grid-template-areas:
+  "header header header"
+  "left-sidebar article right-sidebar"
+  "left-sidebar footer footer";
+    grid-template-rows: auto 1fr auto;
+    grid-template-columns: 20% 1fr 20%;
+    grid-gap: 1px;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+
+#pageHeader {
+    grid-area: header;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#header-left, #header-right {
+    flex: 1;
+}
+
+#headerLeft {
+    margin-left: 10px;
+    text-align: left;
+}
+
+#headerRight {
+    margin-right: 10px;
+    text-align: right;
+}
+
+
+#mainMenu{
+    background-color: #333;
+    width: auto;
+}
+#mainMenu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+#mainMenu li {
+    margin: 5px 10px;
+}
+
+#mainMenu a {
+    color: whitesmoke;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+#mainMenu a:hover {
+    background-color: #555;
+}
+
+
+#pageFooter {
+    grid-area: footer;
+    background-color: cornflowerblue;
+    height: 100px;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr;
+}
+
+.footer-copyright{
+    align-self: start;
+    text-align: left;
+}
+
+
+#mainArticle {
+    padding: 5px;
+    grid-area: article;
+    background-color: dodgerblue;
+    text-align: center;
+}
+
+#mainArticle ul, ol, a{
+    font-size: 25px;
+}
+
+#mainArticle h4{
+    font-size: 20px;
+    text-align: justify;
+}
+
+#leftSidebar {
+    grid-area: left-sidebar;
+    background-color: deepskyblue;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+#rightSidebar {
+    grid-area: right-sidebar;
+    background-color: deepskyblue;
+    display: flex;
+    flex-direction: column;
+}
+
+#topRightSidebar{
+    background-color: cornflowerblue;
+    padding: 5px;
+    flex: 1;
+}
+
+#bottomRightSidebar{
+    background-color: aqua;
+    padding: 5px;
+    flex: 1;
+}
+
+
+
+.article-image{
+    width: 300px;
+    height: auto;
+}
