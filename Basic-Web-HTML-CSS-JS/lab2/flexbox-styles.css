@@ -1,0 +1,72 @@
+body{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: cadetblue;
+    padding: 10px;
+}
+
+#headerTitle{
+    background-color: white;
+    text-align: center;
+    width: 10%;
+    height: auto;
+}
+
+#content{
+    display: flex;
+}
+
+#leftContent{
+    display: flex;
+    flex-direction: column;
+    flex: 3;
+}
+
+#topLeftContent{
+    display: flex;
+    flex-direction: row;
+}
+
+#leftSidebar{
+    padding: 5px;
+    background-color: aqua;
+    flex: 2;
+}
+
+#mainArticle{
+    padding: 5px;
+    background-color: #555555;
+    flex: 4;
+}
+
+#preFooter{
+    padding: 5px;
+    background-color: deepskyblue;
+    flex: auto;
+}
+
+
+
+#rightSidebar{
+    padding: 5px;
+    flex: 1;
+    background-color: cornflowerblue;
+}
+
+footer{
+    background-color: cadetblue;
+    flex: 1;
+    padding: 10px;
+}
+
+#footerCopyright{
+    background-color: white;
+    text-align: center;
+    width: 10%;
+    height: auto;
+}
