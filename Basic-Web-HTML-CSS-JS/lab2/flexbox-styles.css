@@ -6,15 +6,30 @@ body{
 }
 
 header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
     background-color: cadetblue;
-    padding: 10px;
+    padding: 5px;
 }
 
-#headerTitle{
+#leftHeader{
+    flex: 1;
+}
+
+#siteTitle{
     background-color: white;
     text-align: center;
-    width: 10%;
+    width: auto;
     height: auto;
+}
+
+#centralHeader{
+    flex: 1;
+}
+
+#rightHeader{
+    flex: 1;
 }
 
 #content{
@@ -40,7 +55,7 @@ header{
 
 #mainArticle{
     padding: 5px;
-    background-color: #555555;
+    background-color: azure;
     flex: 4;
 }
 
@@ -50,8 +65,6 @@ header{
     flex: auto;
 }
 
-
-
 #rightSidebar{
     padding: 5px;
     flex: 1;
@@ -59,14 +72,27 @@ header{
 }
 
 footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
     background-color: cadetblue;
-    flex: 1;
-    padding: 10px;
+}
+
+#leftFooter{
+
 }
 
 #footerCopyright{
     background-color: white;
     text-align: center;
-    width: 10%;
+    width: auto;
     height: auto;
+}
+
+#centralFooter{
+
+}
+
+#rightFooter{
+
 }

@@ -14,16 +14,29 @@ body{
 }
 
 header{
-    padding: 1%;
     grid-area: header;
     background-color: cornflowerblue;
+
+    display: grid;
+    grid-template-areas: "leftHeader centralHeader rightHeader";
+    grid-template-columns: 30% 1fr 30%;
+    margin: 0;
+    padding: 10px;
+}
+
+#leftHeader{
+    grid-area: leftHeader;
+}
+
+#centralHeader{
+    grid-area: centralHeader;
+}
+
+#rightHeader{
+    grid-area: rightHeader;
 }
 
 #headerTitle{
-    position: relative;
-    width: 10%;
-    height: auto;
-
     background-color: white;
     text-align: center;
 
@@ -54,16 +67,28 @@ article{
 }
 
 footer{
-    padding: 1%;
     grid-area: footer;
     background-color: cornflowerblue;
+    padding: 10px;
+
+    display: grid;
+    grid-template: "leftFooter centralFooter rightFooter";
+    grid-template-columns: 30% 1fr 50%;
+}
+
+#leftFooter{
+    grid-area: leftFooter;
+}
+
+#centralFooter{
+    grid-area: centralFooter;
+}
+
+#rightFooter{
+    grid-area: rightFooter;
 }
 
 #footerCopyright{
-    position: relative;
-    width: 10%;
-    height: auto;
-
     background-color: white;
     text-align: center;
 }
