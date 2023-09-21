@@ -1,0 +1,77 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+
+.pageLayout{
+    display: table;
+}
+
+.row{
+    display: table-row;
+}
+
+
+table{
+    border-collapse: collapse;
+}
+
+th, td {
+    border: none;
+    padding: 10px;
+    text-align: left;
+    vertical-align: top;
+}
+
+
+#leftHeader, #centralHeader, #rightHeader{
+    width: 33%;
+}
+
+
+#leftSidebar, #rightSidebar{
+    width: 20%;
+}
+
+
+#leftFooter, #centralFooter, #rightFooter{
+    width: 33%;
+}
+
+
+header{
+    background-color: cornflowerblue;
+}
+
+#siteTitle{
+    background-color: white;
+    text-align: center;
+}
+
+
+#leftSidebar{
+    background-color: dodgerblue;
+}
+
+#mainArticle{
+    background-color: darkgray;
+}
+
+#rightSidebar{
+    background-color: dodgerblue;
+}
+
+
+#preFooter{
+    background-color: aqua;
+}
+
+footer{
+    background-color: cornflowerblue;
+}
+
+#footerCopyright{
+    background-color: white;
+    text-align: center;
+}
